@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31624.102
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "taller.common", "taller.common\taller.common.csproj", "{8DEFCCE4-9658-4564-838F-2E761ED5C88E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "taller.Functions", "taller.Functions\taller.Functions.csproj", "{1A488963-AFA0-48B3-8FD7-0A93010C1A39}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "taller.Functions", "taller.Functions\taller.Functions.csproj", "{1A488963-AFA0-48B3-8FD7-0A93010C1A39}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "taller.Texting", "taller.Texting\taller.Texting.csproj", "{E7BC0BCD-35E4-437C-97C1-541E95BDDD11}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "taller.Texting", "taller.Texting\taller.Texting.csproj", "{E7BC0BCD-35E4-437C-97C1-541E95BDDD11}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "taller.Common", "taller.Common\taller.Common.csproj", "{0E1C5F06-23CC-48E8-98D0-AB4B6B9DAD9B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,10 +15,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{8DEFCCE4-9658-4564-838F-2E761ED5C88E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{8DEFCCE4-9658-4564-838F-2E761ED5C88E}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{8DEFCCE4-9658-4564-838F-2E761ED5C88E}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{8DEFCCE4-9658-4564-838F-2E761ED5C88E}.Release|Any CPU.Build.0 = Release|Any CPU
 		{1A488963-AFA0-48B3-8FD7-0A93010C1A39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{1A488963-AFA0-48B3-8FD7-0A93010C1A39}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1A488963-AFA0-48B3-8FD7-0A93010C1A39}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -27,6 +23,10 @@ Global
 		{E7BC0BCD-35E4-437C-97C1-541E95BDDD11}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E7BC0BCD-35E4-437C-97C1-541E95BDDD11}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E7BC0BCD-35E4-437C-97C1-541E95BDDD11}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E1C5F06-23CC-48E8-98D0-AB4B6B9DAD9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E1C5F06-23CC-48E8-98D0-AB4B6B9DAD9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E1C5F06-23CC-48E8-98D0-AB4B6B9DAD9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E1C5F06-23CC-48E8-98D0-AB4B6B9DAD9B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
